@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/mtreis86
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://mtreis86.com
+  * I am mtreis86 (https://keybase.io/mtreis86) on keybase.
+  * I have a public key ASBiypuxjgjCuw-GbLOssBY0lyfn05kJr3hwg2-5vqiECgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01206abeae068f23ab55e9cd3df3af15de25d00f0fd110b798a160af1bf3cd500b7d0a",
+      "host": "keybase.io",
+      "kid": "012062ca9bb18e08c2bb0f866cb3acb016349727e7d39909af7870836fb9bea8840a0a",
+      "uid": "d624bbb62629e3b0ba1f3cd9f602dc19",
+      "username": "mtreis86"
+    },
+    "merkle_root": {
+      "ctime": 1521829891,
+      "hash": "93443e1d04d02d4ef59551316f87be8783714e007a6eaffc8f933a1fb44850f4fd0563c2313dd7141302e0a46987e3a42a520c9f3960061afb1e2068fe42876f",
+      "hash_meta": "9fe4740a2bea1f0b41204e0351aa296dfa8eea60b8b62ea9c6121b0ccd3271c7",
+      "seqno": 2279594
+    },
+    "service": {
+      "hostname": "mtreis86.com",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.45"
+  },
+  "ctime": 1521829902,
+  "expire_in": 504576000,
+  "prev": "417d3d4f812e2b20b673122514d070958eb9292e26cabd5a8af8356f7fe1d962",
+  "seqno": 21,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgYsqbsY4IwrsPhmyzrLAWNJcn59OZCa94cINvub6ohAoKp3BheWxvYWTFA0R7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwNmFiZWFlMDY4ZjIzYWI1NWU5Y2QzZGYzYWYxNWRlMjVkMDBmMGZkMTEwYjc5OGExNjBhZjFiZjNjZDUwMGI3ZDBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwNjJjYTliYjE4ZTA4YzJiYjBmODY2Y2IzYWNiMDE2MzQ5NzI3ZTdkMzk5MDlhZjc4NzA4MzZmYjliZWE4ODQwYTBhIiwidWlkIjoiZDYyNGJiYjYyNjI5ZTNiMGJhMWYzY2Q5ZjYwMmRjMTkiLCJ1c2VybmFtZSI6Im10cmVpczg2In0sIm1lcmtsZV9yb290Ijp7ImN0aW1lIjoxNTIxODI5ODkxLCJoYXNoIjoiOTM0NDNlMWQwNGQwMmQ0ZWY1OTU1MTMxNmY4N2JlODc4MzcxNGUwMDdhNmVhZmZjOGY5MzNhMWZiNDQ4NTBmNGZkMDU2M2MyMzEzZGQ3MTQxMzAyZTBhNDY5ODdlM2E0MmE1MjBjOWYzOTYwMDYxYWZiMWUyMDY4ZmU0Mjg3NmYiLCJoYXNoX21ldGEiOiI5ZmU0NzQwYTJiZWExZjBiNDEyMDRlMDM1MWFhMjk2ZGZhOGVlYTYwYjhiNjJlYTljNjEyMWIwY2NkMzI3MWM3Iiwic2Vxbm8iOjIyNzk1OTR9LCJzZXJ2aWNlIjp7Imhvc3RuYW1lIjoibXRyZWlzODYuY29tIiwicHJvdG9jb2wiOiJodHRwOiJ9LCJ0eXBlIjoid2ViX3NlcnZpY2VfYmluZGluZyIsInZlcnNpb24iOjF9LCJjbGllbnQiOnsibmFtZSI6ImtleWJhc2UuaW8gZ28gY2xpZW50IiwidmVyc2lvbiI6IjEuMC40NSJ9LCJjdGltZSI6MTUyMTgyOTkwMiwiZXhwaXJlX2luIjo1MDQ1NzYwMDAsInByZXYiOiI0MTdkM2Q0ZjgxMmUyYjIwYjY3MzEyMjUxNGQwNzA5NThlYjkyOTJlMjZjYWJkNWE4YWY4MzU2ZjdmZTFkOTYyIiwic2Vxbm8iOjIxLCJ0YWciOiJzaWduYXR1cmUifaNzaWfEQKQBzTsWnWfHF+5fqOiZ7k7R6Pc9uR67rB0htn3rTIW+XETEAsZbZW2+YQflvqImxOXUuENUrN6/Ke4h+TWCiQOoc2lnX3R5cGUgpGhhc2iCpHR5cGUIpXZhbHVlxCDeen8b8Yf9qTMOKT7r5zwtnabcEw99hKh0hZVADx9z2KN0YWfNAgKndmVyc2lvbgE=
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/mtreis86
+
+==================================================================
